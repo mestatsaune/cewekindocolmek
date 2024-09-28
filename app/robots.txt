@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://cewekindocolmek.pages.dev/sitemap.xml
